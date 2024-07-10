@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ2_8 Pin=U1-P10
+Removed Pin From Net: NetName=NetJ2_5 Pin=U1-R9
+Removed Pin From Net: NetName=NetJ2_4 Pin=U1-R11
+Removed Pin From Net: NetName=NetJ2_7 Pin=U1-T5
+Removed Pin From Net: NetName=NetJ2_9 Pin=U1-U4
+Removed Pin From Net: NetName=NetJ2_6 Pin=U1-U8
+Removed Pin From Net: NetName=NetJ2_10 Pin=U1-V7
+Removed Pin From Net: NetName=NetJ2_3 Pin=U1-V10
+Added Pin To Net: NetName=NetJ2_9 Pin=U1-P18
+Added Pin To Net: NetName=NetJ2_10 Pin=U1-R18
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-T15
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-U14
+Added Pin To Net: NetName=NetJ2_4 Pin=U1-U15
+Added Pin To Net: NetName=NetJ2_6 Pin=U1-V15
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-V16
+Added Pin To Net: NetName=NetJ2_8 Pin=U1-V17
+Add Differential Pair: Number of nets in differential pair NetJ6_A6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ6_A7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ6_B6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ6_B7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_4 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_9 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_10 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ7_12 is 1 instead of 2

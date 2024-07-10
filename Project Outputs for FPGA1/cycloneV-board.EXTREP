@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: cycloneV-board.GBR   6/7/2024  2:32:01 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                ROUTE1                                  
+.gbr                ROUTE2                                  
+.gbr                Bottom Layer                            
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+.gbr                Blind or buried via drill file for drill pairs
+------------------------------------------------------------------------------------------

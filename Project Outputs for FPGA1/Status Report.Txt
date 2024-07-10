@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [FPGA1.PrjPcb]
+   Generated File[cycloneV-board_Copper_Signal_Top.gbr]
+   Generated File[cycloneV-board_Copper_Signal_1.gbr]
+   Generated File[cycloneV-board_Copper_Signal_2.gbr]
+   Generated File[cycloneV-board_Copper_Signal_Bot.gbr]
+   Generated File[cycloneV-board_Legend_Top.gbr]
+   Generated File[cycloneV-board_Legend_Bot.gbr]
+   Generated File[cycloneV-board_Soldermask_Top.gbr]
+   Generated File[cycloneV-board_Soldermask_Bot.gbr]
+   Generated File[cycloneV-board_Paste_Top.gbr]
+   Generated File[cycloneV-board_Paste_Bot.gbr]
+   Generated File[cycloneV-board_Profile.gbr]
+   Generated File[cycloneV-board_NPTH_Drill.gbr]
+   Generated File[cycloneV-board_PTH_Drill.gbr]
+   Generated File[cycloneV-board_Plated_Drill_1_2.gbr]
+   Generated File[cycloneV-board_Plated_Drill_1_3.gbr]
+   Generated File[cycloneV-board_Plated_Drill_2_3.gbr]
+   Generated File[cycloneV-board_Plated_Drill_2_4.gbr]
+   Generated File[cycloneV-board.EXTREP]
+   Generated File[cycloneV-board.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 2:32:08 AM On 6/7/2024
